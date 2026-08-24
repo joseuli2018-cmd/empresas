@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://empresas.withmyname.com.br/sitemap.xml
